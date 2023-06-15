@@ -1,32 +1,11 @@
 {
    "Ads": [
-    {
-      "on_off_open": "0",
-      "select_ads_interstitial": "ADMOBx",
-      "select_ads_banner": "ADMOBx",
-      "select_ads_native": "ADMOBx",
+      {
       "status_app": "0",
       "link_redirect": "",
-      "admob_interid": "ca-app-pub-7036757467253823/9046383879",
-      "admob_open": "ca-app-pub-7036757467253823/9709810423",
-      "admob_nativeid": "ca-app-pub-7036757467253823/2708491647",
-      "admob_banner": "ca-app-pub-7036757467253823/1120873965",
-      "interval_intertitial": "3",
-      "unityID": "4573644xx",
-      "unity_inter": "Interstitial_Android",
-      "unity_banner": "",
-      "applovin_native": "486e56699ea4ad6a",
-      "applovin_banner": "97d3b3028ec77010",
-      "applovin_inter": "0ad6b798659dd1ea",
-      "applovin_zone": "9f20993c3483565b",
       "select_exit": "2",
       "on_off_category": "3",
-      "on_off_more_app": "2",
-      "hpk_admob1": "",
-      "hpk_admob2": "",
-      "hpk_admob3": "",
-      "hpk_admob4": "",
-      "hpk_admob5": ""
+      "on_off_more_app": "2"
     }
   ],
   "Data": [
